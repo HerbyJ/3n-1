@@ -1,0 +1,20 @@
+﻿<Window x:Class="_3N_Problem_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3N_Problem_Project"
+        mc:Ignorable="d"
+        Title="3n + 1 Problem" Height="264.608" Width="217.169">
+    <Grid>
+        <TextBox x:Name="txtBx_InputI" HorizontalAlignment="Left" Height="23" Margin="46,31,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtBx_InputJ" HorizontalAlignment="Left" Height="23" Margin="46,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_InputI" Content="Enter Input I Value:" HorizontalAlignment="Left" Margin="41,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_InputJ" Content="Enter Input J Value:" HorizontalAlignment="Left" Margin="42,67,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_Submit" Content="Submit" HorizontalAlignment="Left" Margin="26,194,0,0" VerticalAlignment="Top" Width="75" Click="btn_Submit_Click"/>
+        <Button x:Name="btn_Close" Content="Close" HorizontalAlignment="Left" Margin="106,194,0,0" VerticalAlignment="Top" Width="75" Click="btn_Close_Click"/>
+        <TextBox x:Name="txtBx_Output" HorizontalAlignment="Left" Height="23" Margin="46,152,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_Output" Content="Output:" HorizontalAlignment="Left" Margin="41,131,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

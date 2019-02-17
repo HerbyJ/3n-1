@@ -1,0 +1,14 @@
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\bin\Debug\3N_Problem_Project.exe.config
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\bin\Debug\3N_Problem_Project.exe
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\bin\Debug\3N_Problem_Project.pdb
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\3N_Problem_Project.csprojResolveAssemblyReference.cache
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\MainWindow.g.cs
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\App.g.cs
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\3N_Problem_Project_MarkupCompile.cache
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\3N_Problem_Project_MarkupCompile.lref
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\MainWindow.baml
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\3N_Problem_Project.g.resources
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\_3N_Problem_Project.Properties.Resources.resources
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\3N_Problem_Project.csproj.GenerateResource.Cache
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\3N_Problem_Project.exe
+B:\C Sharp Projects\3N_Problem_Project\3N_Problem_Project\obj\Debug\3N_Problem_Project.pdb
